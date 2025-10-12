@@ -24,9 +24,9 @@ I love combining **creativity** and **logic**: turning complex datasets into cle
 
 ### 🌍 A Bit More About Me  
 I’ve lived and worked in different countries, which taught me adaptability, teamwork, and the value of clear communication.  
-Outside of data, you’ll probably find me painting, learning new languages, or traveling to discover new perspectives.  
+Outside of data, you’ll probably find me crafting, learning new languages, or traveling to discover new perspectives.  
 
 ---
 
 📫 **Let’s connect!**  
-[LinkedIn](https://linkedin.com/in/monica-escudero-aceves) • [Portfolio / Projects](https://github.com/monicaea98)  
+[LinkedIn](https://linkedin.com/in/monica-escudero-aceves) 
