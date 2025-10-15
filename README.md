@@ -5,6 +5,8 @@
 📊 I’m a **Data Analyst** passionate about transforming information into insights that tell stories and guide decisions.  
 I love combining **creativity** and **logic**: turning complex datasets into clear, meaningful visualizations that anyone can understand.  
 
+💡 I’m known for being organized, curious, and collaborative — someone who loves learning, solving problems, and helping others see the bigger picture.
+
 ---
 
 ### 🧠 What I Work With  
