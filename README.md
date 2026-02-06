@@ -38,5 +38,17 @@ I’m passionate about analytics, continuous learning, and building data-driven 
 ---
 
 ## 🌐 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mónica%20Escudero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monicaea98/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://monicaea98.github.io/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/monicaea98/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://monicaea98.github.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>LinkedIn</b> · <b>Portfolio</b>
+</p>
+
