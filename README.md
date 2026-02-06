@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" alt="Mónica Escudero - Data Analyst Banner" />
+</p>
+
 # 👋 Hi, I'm Mónica Escudero
 
 🎯 **Data Analyst | Business Intelligence Enthusiast**  
