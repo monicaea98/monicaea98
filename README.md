@@ -15,9 +15,17 @@ I’m passionate about analytics, continuous learning, and building data-driven 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, SQL  
-- **Data & BI:** Pandas, NumPy, Tableau, Google Sheets / Excel  
-- **Other:** Git, GitHub, Data Cleaning, Data Visualization
+- **Languages & Programming:** Python, SQL  
+- **Data Analysis & BI:** Pandas, NumPy, Tableau  
+- **Spreadsheets:** Google Sheets, Excel  
+- **Skills:** Data Cleaning, Data Visualization, Exploratory Data Analysis (EDA)
+
+---
+
+## 🌍 Languages
+- 🇬🇧 **English** – Fluent  
+- 🇪🇸 **Spanish** – Native  
+- 🇮🇹 **Italian** – Intermediate
 
 ---
 
