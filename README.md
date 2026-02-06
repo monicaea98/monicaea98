@@ -1,34 +1,34 @@
-# 👋 Hi, I’m Monica Escudero  
+# 👋 Hi, I'm Mónica Escudero
 
-🎨 From **Graphic Design** to **Data Analytics**, I’ve always been driven by curiosity — about how things look, how they work, and most of all, what the data behind them says.  
-
-📊 I’m a **Data Analyst** passionate about transforming information into insights that tell stories and guide decisions.  
-I love combining **creativity** and **logic**: turning complex datasets into clear, meaningful visualizations that anyone can understand.  
-
-💡 I’m known for being organized, curious, and collaborative — someone who loves learning, solving problems, and helping others see the bigger picture.
+🎯 **Data Analyst | Business Intelligence Enthusiast**  
+I enjoy transforming data into clear, actionable insights that support better decision-making.  
+I’m passionate about analytics, continuous learning, and building data-driven solutions that actually make an impact.
 
 ---
 
-### 🧠 What I Work With  
-- 🐍 **Python** (pandas, numpy, matplotlib)  
-- 🗃️ **SQL** for data collection and manipulation  
-- 📈 **Tableau & Excel** for dashboards and visualization  
-- 📊 Data cleaning, exploratory analysis & A/B testing  
+## 🚀 About Me
+- 📊 Experience working with **Python, SQL, Tableau, and spreadsheets**
+- 🔍 Strong interest in **data analysis, visualization, and business intelligence**
+- 🧠 Curious, detail-oriented, and always eager to learn new tools and techniques
+- 🌱 Currently looking for opportunities where I can **grow professionally and apply my analytical skills**
 
 ---
 
-### 🚀 What I’ve Been Up To  
-- Analyzed **customer behavior patterns** to improve retention strategies  
-- Built **interactive dashboards** for business performance tracking  
-- Conducted **A/B experiments** to evaluate marketing hypotheses  
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL  
+- **Data & BI:** Pandas, NumPy, Tableau, Google Sheets / Excel  
+- **Other:** Git, GitHub, Data Cleaning, Data Visualization
 
 ---
 
-### 🌍 A Bit More About Me  
-I’ve lived and worked in different countries, which taught me adaptability, teamwork, and the value of clear communication.  
-Outside of data, you’ll probably find me crafting, learning new languages, or traveling to discover new perspectives.  
+## 📌 What You’ll Find Here
+- 📁 Data analysis projects  
+- 📈 Dashboards and visualizations  
+- 🧪 Practice notebooks and experiments  
+- 📝 Continuous learning and personal projects  
 
 ---
 
-📫 **Let’s connect!**  
-[LinkedIn](https://linkedin.com/in/monica-escudero-aceves) 
+## 🌐 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mónica%20Escudero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monicaea98/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://monicaea98.github.io/)
